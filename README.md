@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**IgnacioArGs/IgnacioArgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Data Analytics
+- 🌱 I’m currently learning Python oriented to IA
+- 👯 I’m looking to collaborate on Data Science proyects
+- 🤔 I’m looking for help with python code
+- 💬 Ask me about Tkinter and openCV among other things
+- 📫 How to reach me: etcvarshadow@protonmail.ch  
+- 😄 Pronouns: Him
+- ⚡ Fun fact: The twitter bird is called Larry.
+
