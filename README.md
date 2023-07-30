@@ -9,6 +9,6 @@
 - 🤔 I’m looking for help with python code
 - 💬 Ask me about Tkinter and openCV among other things
 - 📫 How to reach me: etcvarshadow@protonmail.ch  
-- 😄 Country: Argentina
+- 🇦🇷 Country: Argentina
 
 
